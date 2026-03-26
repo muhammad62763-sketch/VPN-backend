@@ -1,3 +1,4 @@
+# VPN Backend Config - v2.1
 from pydantic_settings import BaseSettings
 from typing import List
 import json
